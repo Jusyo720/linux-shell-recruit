@@ -3,10 +3,8 @@
 - Linux中表示路径用/，Windows用\。
 - Linux的根目录为/。
 ***
-- Linux命令的基本格式：command [-options] [parameter] ，其中后两项可选，非必填。[^1]
+- Linux命令的基本格式：**command -options parameter** ，其中后两项可选，非必填。
 
     - 第二项可填命令选项，以此控制行为细节。
 
    - 第三项可填命令的参数，多用于命令的指向目标。
-
-[^1]: []表示可选。
