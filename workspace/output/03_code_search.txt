@@ -1,2 +1,2 @@
-./main.py
-./utils/helper.py
+main.py
+utils/helper.py
