@@ -1,3 +1,4 @@
+![check](images/check.png)
 # 学习Linux过程中的笔记
 
 - Linux中表示路径用/，Windows用\。
